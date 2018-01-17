@@ -11,5 +11,10 @@ public class PracTwo {
   public void printStr() {
     System.out.println(word);
   }
+  
+  // prints a string twice
+  public void printStrTwice() {
+    System.out.println(word);
+  }
 
 }

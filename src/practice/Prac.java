@@ -23,8 +23,8 @@ public  class Prac {
     this.num = this.num + 5;
   }
   
-  // adds 7 to a number.
-  public void addSeven() {
-    this.num = num + 7; 
+  // adds 9 to a number.
+  public void addNine() {
+    this.num = num + 9; 
   }
 }

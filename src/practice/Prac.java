@@ -27,4 +27,9 @@ public  class Prac {
   public void addNine() {
     this.num = num + 9; 
   }
+  
+  //adds 10 to a number.
+  public void addTen() {
+    this.num = num + 10;
+  }
 }

@@ -47,4 +47,9 @@ public  class Prac {
   public void addTwelve() {
     this.num = num + 12; 
   }
+  
+  //add 14 to a number
+  public void addFourteen() {
+    this.num = num + 14; 
+  }
 }

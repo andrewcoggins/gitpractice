@@ -17,4 +17,9 @@ public  class Prac {
   public void printNum() {
     System.out.println(num);
   }
+  
+  // adds 5 to number
+  public void addFive() {
+    this.num = this.num + 5;
+  }
 }

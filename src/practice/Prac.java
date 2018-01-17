@@ -32,4 +32,9 @@ public  class Prac {
   public void addEleven(){
     this.num = num+11;
   }
+  
+  //add 12 to a number
+  public void addTwelve() {
+    this.num = num + 12; 
+  }
 }

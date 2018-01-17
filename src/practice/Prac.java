@@ -13,6 +13,7 @@ public  class Prac {
     this.num = aNum; 
   }
   
+  //the purpose of this is to print a number. 
   public void printNum() {
     System.out.println(num);
   }

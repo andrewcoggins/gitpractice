@@ -22,4 +22,9 @@ public  class Prac {
   public void addFive() {
     this.num = this.num + 5;
   }
+  
+  // adds 7 to a number.
+  public void addSeven() {
+    this.num = num + 7; 
+  }
 }

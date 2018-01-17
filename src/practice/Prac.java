@@ -47,4 +47,10 @@ public  class Prac {
   public void addTwelve() {
     this.num = num + 12; 
   }
+  
+  //add 13 to a number.
+  public void addThirteen() {
+    this.num = num + 13; 
+  }
+  
 }

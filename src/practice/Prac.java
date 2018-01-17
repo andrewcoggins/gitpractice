@@ -53,4 +53,9 @@ public  class Prac {
     this.num = num + 13; 
   }
   
+  //add 15 to a number.
+  public void addFifteen() {
+    this.num = num + 15; 
+  }
+  
 }

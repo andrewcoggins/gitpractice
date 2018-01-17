@@ -28,14 +28,8 @@ public  class Prac {
     this.num = num + 9; 
   }
   
-  //adds 10 to a number.
-  public void addTen() {
-    this.num = num + 10;
-  }
-  
   // adds 11 to a number
   public void addEleven(){
-    addTen();
-    this.num = num+1;
+    this.num = num+11;
   }
 }
